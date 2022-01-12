@@ -1,6 +1,6 @@
 # JOGOS
 
-Criei este repositório para arquivar fontes de jogos que fiz nos anos 80 e 90. Abaixo, o texto que escrevi para um site que tive no HPG sobre eles:
+Criei este repositório para arquivar binários (e fontes quando eu encontrar) de jogos que fiz nos anos 80 e 90. Abaixo, o texto que escrevi para um site que tive no HPG sobre eles:
 
 ## Aurora
 
