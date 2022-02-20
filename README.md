@@ -28,7 +28,7 @@ Jogo de dominó para 4 jogadores em duplas. Apenas um é humano, e o computador 
 
 ## Osório
 
-![Osório](https://raw.githubusercontent.com/alexrosabr/jogos/master/domino1.png)
+![Osório](https://raw.githubusercontent.com/alexrosabr/jogos/master/osorio.png)
 
 Guerra entre tanques, para 1 ou 2 jogadores. Permite redefinir as teclas, e tem vários tipos de terreno. No modo um jogador, o computador usa um sofisticado algoritmo de evasão e perseguição.
 
