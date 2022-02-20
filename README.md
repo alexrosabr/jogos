@@ -34,3 +34,8 @@ Guerra entre tanques, para 1 ou 2 jogadores. Permite redefinir as teclas, e tem 
 
 *Tank war, 1 or 2 players. Allows the players to redefine the keys, and there are several terrain elements. In the one player mode, the computer uses a sophisticated evasion and chase algorithm.*
 
+## Jogo da Velha
+
+![Jogo da Velha](https://raw.githubusercontent.com/alexrosabr/jogos/master/velha1.png)
+
+Jogo da Velha com 3 níveis de dificuldade escrito em Delphi 7 para Windows 95/98. Foi publicado na **Revista CD-ROM Fácil nº 31** de 2002.
