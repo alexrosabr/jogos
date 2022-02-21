@@ -38,4 +38,4 @@ Guerra entre tanques, para 1 ou 2 jogadores. Permite redefinir as teclas, e tem 
 
 ![Jogo da Velha](https://raw.githubusercontent.com/alexrosabr/jogos/master/velha1.png)
 
-Jogo da Velha com 3 níveis de dificuldade escrito em Delphi 7 para Windows 95/98. Foi publicado na **Revista CD-ROM Fácil nº 31** de 2002.
+Jogo da Velha com 3 níveis de dificuldade escrito em Delphi 7 para Windows 95/98. Uma implementação do [algoritmo Minimax](https://en.wikipedia.org/wiki/Minimax) foi usada na Inteligência Artificial do jogo. Foi publicado na **Revista CD-ROM Fácil nº 31** de 2002.
